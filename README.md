@@ -27,4 +27,23 @@ _____|_____|_____
   7  |  8  |  9
      |     |
 ```
+- Player 1 uses 'X', and Player 2 uses 'O'.
+- The game will determine a win, loss, or draw based on the positions marked by the players.
+
+## How to Use
+
+1. Compile the code in a C compiler or IDE.
+2. Run the compiled program.
+3. Follow the on-screen instructions to play the game.
+
+## Files
+
+- tictactoe.c: Contains the source code for the Tic-Tac-Toe game.
+- README.md: This file, providing information about the project.
+
+## Contributing
+
+Feel free to contribute to this project by submitting pull requests.
+
+
 
