@@ -47,5 +47,5 @@ Feel free to contribute to this project by submitting pull requests.
 
 ## Contact
 - Email: satyamnaithani14@gmail.com
-- - GitHub: [GitHub Profile](https://github.com/ReaalSATYAM)
+- GitHub: [GitHub Profile](https://github.com/ReaalSATYAM)
 
